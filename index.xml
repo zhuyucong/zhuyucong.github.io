@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhuyc&#39;s Blog</title>
-    <link>http://zhuyucong.github.io/</link>
-    <description>Recent content on Zhuyc&#39;s Blog</description>
+    <title>My Blog</title>
+    <link>http://zhuyucong.github.io/index.xml</link>
+    <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016, zhuyuc; all rights reserved.</copyright>
     <lastBuildDate>Mon, 24 Oct 2016 00:51:54 +0800</lastBuildDate>
     <atom:link href="http://zhuyucong.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
       <guid>http://zhuyucong.github.io/blog/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
       <description>
 
-&lt;h1 id=&#34;这是我的第一个博客:5d129b5e35ef84b39d625cf30a695263&#34;&gt;这是我的第一个博客&lt;/h1&gt;
+&lt;h1 id=&#34;这是我的第一个博客&#34;&gt;这是我的第一个博客&lt;/h1&gt;
 </description>
     </item>
     
